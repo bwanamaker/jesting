@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test.watch": "jest --watchAll"
   },
   "jest": {
     "collectCoverage": true
@@ -13,6 +14,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^26.6.3"
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3",
+    "jest-playwright-preset": "^1.5.2",
+    "playwright": "^1.10.0",
+    "ts-jest": "^26.5.6",
+    "typescript": "^4.2.4"
   }
 }
