@@ -1,3 +1,3 @@
 # Just Jesting!
 
-An experiment in Javascript Testing with Jest.
+An experiment in Javascript testing with Jest.
