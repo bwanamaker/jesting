@@ -6,5 +6,5 @@
     "module": "commonjs",
     "noEmit": true
   },
-  "include": ["__test__/playwright"]
+  "include": ["src"]
 }
